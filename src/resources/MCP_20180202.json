@@ -1,0 +1,8 @@
+{"message_type": "CALL","timestamp": 1517645700,"origin": 34969000001,"destination": 34969000101,"duration": 120,"status_code": "OK","status_description": "OK"}
+{"message_type": "NULL","timestamp": 1517645700,"origin": 34969000001,"destination": 34969000101,"status_code": "OK","status_description": "OK"}
+{"message_type": "CALL","timestamp": 1517645700,"origin": 34969000001,"destination": 34969000101,"duration": 120,"status_code": OK","status_description": "OK"}
+{"message_type": "CALL","timestamp": 1517645700,"origin": 34969000001,"destination": 34969000101,"duration": 120,"status_code": OK","status_description": "OK"}
+{"message_type": "CALL","timestamp": 1517645700,"origin": 34969000001,"destination": 34969000101,"duration": 120,"status_code": OK","status_description": "OK"}
+{"message_type": "CALL","timestamp": 1517732100,"origin": 34969000001,"destination": 34969000101,"duration": 180,"status": "OK","status_description": "OK"}
+{"message_type": "CALL","timestamp": 1517732100,"origin": 34969000001,"destination": 34969000101,"duration": 180,"status_code": "OK","status_description": "OK"
+{}
